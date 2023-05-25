@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de931b30.css",
+    "main.js": "/portfolio/static/js/main.56ba6bf9.js",
+    "static/media/p2.png": "/portfolio/static/media/p2.85b767f8b992491b9cd9.png",
+    "static/media/p4.png": "/portfolio/static/media/p4.0b1bd5b475678f93cc3f.png",
+    "static/media/p3.png": "/portfolio/static/media/p3.a5073dd8aed0b5d7ea49.png",
+    "static/media/p1.png": "/portfolio/static/media/p1.f7cc880b430688be688f.png",
+    "static/media/photo31.png": "/portfolio/static/media/photo31.e3b5e2c26a4cd640d973.png",
+    "static/media/newbg1.jpg": "/portfolio/static/media/newbg1.b1264f4c4dabff9d589d.jpg",
+    "static/media/DE.png": "/portfolio/static/media/DE.e2ad1bfa993a89c12aec.png",
+    "static/media/MadhukaDilshanCV.pdf": "/portfolio/static/media/MadhukaDilshanCV.1ba907f3019e09634ddb.pdf",
+    "static/media/oracle.jpg": "/portfolio/static/media/oracle.8ecdc4efd80048f97c07.jpg",
+    "static/media/AWSACF.png": "/portfolio/static/media/AWSACF.7ab851fcf0756c03c515.png",
+    "static/media/CP.png": "/portfolio/static/media/CP.63b6ab44fb730fb9e043.png",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.5211248c39d07a85325b.jpg",
+    "static/media/AWSrestart.png": "/portfolio/static/media/AWSrestart.a794e957d6acb55eb663.png",
+    "index.html": "/portfolio/index.html",
+    "main.de931b30.css.map": "/portfolio/static/css/main.de931b30.css.map",
+    "main.56ba6bf9.js.map": "/portfolio/static/js/main.56ba6bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de931b30.css",
+    "static/js/main.56ba6bf9.js"
+  ]
+}
