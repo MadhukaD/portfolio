@@ -1,7 +1,7 @@
 ## About
-As a final year Cloud Computing UG, I've made a portfolio website to introduce me to the world with my ambitions, passions, skills and projects I have completed. I used ReactJs to build it which is a trendy way to create websites.
+As a final-year undergraduate student in Cloud Computing, I've developed a portfolio website to introduce myself to the world, showcasing my ambitions, passions, skills, and completed projects. Employing ReactJS, a contemporary web development framework, I've crafted a dynamic platform to present my endeavors.
 
-Although my interested area is DevOps, I have a passion to develop websites. Upto now I have created some websites with HTML in my academic life. Creating this website was a really nice experience for me as I have never created anything with ReactJs. I learned so many new things and found that ReactJs provides various features to ease the creation.
+Despite my primary interest lying in DevOps, I possess a fervor for web development. Throughout my academic journey, I've constructed several websites using MERN stack and using PHP. Delving into ReactJS for this project has been an enlightening experience. The framework's myriad features have streamlined the development process, enabling me to learn and implement novel techniques effectively.
 
 ### Visit my Portfolio Website:
 ### [https://madhukad.github.io/portfolio/](https://madhukad.github.io/portfolio/)
